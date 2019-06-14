@@ -1,6 +1,11 @@
-# express-boom
+# express-boom-v2
 
 [Boom](https://www.npmjs.org/package/boom) response objects in Express.
+
+
+This plugin forked from the [scottcorgan/express-boom](https://github.com/scottcorgan/express-boom) ( *NPM module:* [express-boom](https://www.npmjs.com/package/express-boom) ) and update the previous deprecated [boom](https://www.npmjs.com/package/boom) dependency to new [@hapi/boom](https://www.npmjs.com/package/@hapi/boom) module.
+
+All credits goes to **Scott Corgan** and team.
 
 ## Install
 

@@ -1,6 +1,6 @@
 {
-  "name": "express-boom",
-  "version": "3.0.0",
+  "name": "express-boom-v2",
+  "version": "4.0.1",
   "description": "Boom response objects in Express",
   "main": "index.js",
   "scripts": {
@@ -9,17 +9,18 @@
   "keywords": [
     "Hapi",
     "Boom",
+    "@hapi/boom",
     "Express",
     "response"
   ],
   "author": "Scott Corgan",
   "license": "MIT",
   "dependencies": {
-    "boom": "^7.3.x"
+    "@hapi/boom": "^7.4.2"
   },
   "devDependencies": {
-    "mocha": "^6.0.1",
-    "node-mocks-http": "^1.7.3"
+    "mocha": "^6.1.4",
+    "node-mocks-http": "^1.7.6"
   },
   "repository": {
     "type": "git",
