@@ -10,14 +10,14 @@ All credits goes to **Scott Corgan** and team.
 ## Install
 
 ```
-npm install express-boom --save
+npm install express-boom-v2 --save
 ```
 
 ## Usage
 
 ```js
 var express = require('express');
-var boom = require('express-boom');
+var boom = require('express-boom-v2');
 
 var app = express();
 

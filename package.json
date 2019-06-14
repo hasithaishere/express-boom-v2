@@ -1,6 +1,6 @@
 {
   "name": "express-boom-v2",
-  "version": "4.0.1",
+  "version": "4.2.0",
   "description": "Boom response objects in Express",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scottcorgan/express-boom.git"
+    "url": "git://github.com/hasithaishere/express-boom-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/scottcorgan/express-boom/issues"
+    "url": "https://github.com/hasithaishere/express-boom-v2/issues"
   },
-  "homepage": "https://github.com/scottcorgan/express-boom"
+  "homepage": "https://github.com/hasithaishere/express-boom-v2"
 }
